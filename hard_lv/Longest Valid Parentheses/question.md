@@ -19,7 +19,7 @@ Output: 4
 Explanation: The longest valid parentheses substring is "()()".
 ```
 
-###Example 3:
+### Example 3:
 
 ```
 Input: s = ""
